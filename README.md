@@ -24,6 +24,7 @@ Random Password will be generated for each account during creation of it.
 Admin Window
 To Enter this Window, Admin must use correct Username and Password.
 In this window Admin can perform the following actions:
+
 1- Create New Account
 In this Feature you will be asked to enter the following parameters
 - Full Name
@@ -35,6 +36,7 @@ In this Feature you will be asked to enter the following parameters
 - Balance
 Note that (Password, and Bank account ID will be generated automatically)
 Note also that the account status will be active once it is created.
+
 2- Open Existing Account
 In this Feature you will be asked to enter Client Bank Account ID then
 choose between the following features:
@@ -61,6 +63,7 @@ In this feature you will be asked to enter the cash amount you want to add
 to this account.
 - Return to main menu
 In this feature you will return to Admin Main Menu
+
 3- Exit the System
 In this Feature you Admin menu will be terminated.
 
